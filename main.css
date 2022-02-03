@@ -41,15 +41,15 @@ body {
 }
 
 .one {
-  background-image: url("/img/audi-770807_1920.jpg");
+  background-image: url('./img/audi-770807_1920.jpg');
 }
 
 .two {
-  background-image: url("/img/mercedes-amg-gt-4-door-coupe-6942525.jpg");
+  background-image: url('./img/mercedes-amg-gt-4-door-coupe-6942525.jpg');
 }
 
 .three {
-  background-image: url("/img/bmw-6706660_1920.jpg");
+  background-image: url('./img/bmw-6706660_1920.jpg');
 }
 
 .text {
